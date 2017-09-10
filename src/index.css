@@ -1,0 +1,33 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+.container {
+	overflow-x: auto;
+}
+
+li.nav-item {
+  padding-right: 10px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}
+
+.table-icon {
+	height: 20px;
+	max-width: 20px;
+}
+
+.pagination {
+	float: right;
+}
+
+.left-aligned {
+	text-align: left;
+}
+
+.center-aligned {
+	text-align: center;
+}
